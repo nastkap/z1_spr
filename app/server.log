@@ -1,0 +1,72 @@
+INFO:root:Serwer uruchomiony: 2024-05-19 16:43:52
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nas\u0142uch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:44:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:44:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:44:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.232 - - [19/May/2024 16:46:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.232 - - [19/May/2024 16:46:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Serwer uruchomiony: 2024-05-19 20:02:59
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nas\u0142uch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Serwer uruchomiony: 2024-05-19 20:30:07
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nasluch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:30:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:30:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Serwer uruchomiony: 2024-05-19 20:48:53
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nasluch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Serwer uruchomiony: 2024-05-19 20:50:31
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nasluch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Serwer uruchomiony: 2024-05-19 20:57:54
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nasluch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Serwer uruchomiony: 2024-05-19 21:02:38
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nasluch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Serwer uruchomiony: 2024-05-19 21:02:51
+INFO:root:Autor: Anastasiia Pryimachuk
+INFO:root:Nasluch na porcie TCP: 5000
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.232:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:17:12] "GET / HTTP/1.1" 200 -
